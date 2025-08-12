@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { motion } from "motion/react";
+import { motion } from "framer-motion";
 function Navigation() {
   return (
     <ul className="nav-ul">
@@ -36,7 +36,7 @@ const Navbar = () => {
             href="/"
             className="text-xl font-bold transition-colors text-neutral-400 hover:text-white"
           >
-            Ali
+            KUTRALEESWARAN B
           </a>
           <button
             onClick={() => setIsOpen(!isOpen)}

@@ -1,98 +1,77 @@
-# 🚀 3D Developer Portfolio
+# 3D Portfolio Website
 
-A modern, animated 3D developer portfolio built with React, Three.js, TailwindCSS, and motion effects — designed to help you stand out and showcase your skills creatively.
+A modern and creative 3D portfolio website designed to help you stand out and showcase your skills creatively.
 
 ![3d Portfolio Screenshot GitHub](https://github.com/user-attachments/assets/9b0ed20e-074e-4f2a-81d8-20c9da751e9e)
 
 ---
 
-## 📚 Table of Contents
+## Contact Information:
+*   +91-9597581629
+*   kutraleeswaran2003@gmail.com
+*   github.com/kutral
+*   linkedin.com/in/kutraleeswaranb/
+*   kutral.github.io/Portfolio/
 
-- [Features](#-features)
-- [Tech Stack](#-tech-stack)
-- [Project Structure](#-project-structure)
-- [Getting Started](#-getting-started)
-- [Assets](#-assets)
-- [Contact Me](#-contact-me)
-- [Suggestions or Feedback](#-suggestions-or-feedback)
-- [Like This Project?](#-like-this-project)
+## Summary
+Computer Science & Engineering graduate with skills in web development, API integration, and software testing, eager to contribute to innovative web development internships. Proficient in JavaScript, React, Wordpress, Python, and MySQL, I aim to build user-friendly web solutions while growing as a full-stack developer in collaborative environments.
+
+---
+## Key Features
+
+*   **3D Visuals:** Interactive 3D models and animations using React Three Fiber.
+*   **Smooth Animations:** Fluid animations and transitions with Framer Motion.
+*   **Responsive Design:** A fully responsive UI that looks great on all devices, built with TailwindCSS.
+*   **Contact Form:** A working contact form powered by EmailJS.
+*   **Fast Development:** Built with Vite for a fast and efficient development experience.
+*   **Reusable Components:** A modular codebase with reusable components.
 
 ---
 
-## ✨ Features
+## Technologies Used
 
-- 🔥 3D visuals powered by **React Three Fiber** and **Drei**
-- ⚡ Smooth transitions and scroll-based animations using **Framer Motion**
-- 🎨 Clean, responsive UI with **TailwindCSS**
-- 💌 Working contact form using **EmailJS**
-- 🧱 Beautiful UI enhancements with **Aceternity UI** and **Magic UI**
-- 🚀 Lightning-fast development with **Vite**
-
----
-
-## 🛠 Tech Stack
-
-| Tech              | Description                           |
-|-------------------|---------------------------------------|
-| React             | Front-end JavaScript library          |
-| Vite              | Fast bundler and dev environment      |
-| TailwindCSS       | Utility-first CSS framework           |
-| React Three Fiber | 3D rendering with Three.js in React   |
-| Drei              | Helpers and abstractions for R3F      |
-| Framer Motion     | Animation library for React           |
-| EmailJS           | Form handling and email integration   |
-| Aceternity UI     | Custom UI components                  |
-| Magic UI          | Prebuilt UI elements and design extras|
+*   **React:** A JavaScript library for building user interfaces.
+*   **Three.js:** A 3D graphics library for creating and displaying animated 3D computer graphics in a web browser.
+*   **React Three Fiber:** A React renderer for Three.js.
+*   **Framer Motion:** A React library for production-ready animations.
+*   **TailwindCSS:** A utility-first CSS framework for rapid UI development.
+*   **Vite:** A build tool that provides a faster and leaner development experience for modern web projects.
+*   **EmailJS:** A service that allows you to send emails directly from your client-side JavaScript code.
 
 ---
 
-## 📁 Project Structure
+## Getting Started
 
-```bash
-├── public/
-│   ├── assets/             # Images, textures, models
-│   ├── models/             # 3D Astronaut model
-│   └── vite.svg
-├── src/
-│   ├── components/         # Reusable components
-│   ├── constants/          # Reusable datas
-│   ├── sections/           # Portfolio sections (Hero, About, etc.)
-│   ├── App.jsx             # Main app file
-│   ├── index.css           # Tailwind css
-│   └── main.jsx            # Entry point
-├── tailwind.config.js
-└── vite.config.js
-```
+To get a local copy up and running, follow these simple steps.
 
----
+### Prerequisites
 
-## 🚀 Getting Started
-1. Clone the Repository
-```bash
-git clone https://github.com/Ali-Sanati/Portfolio.git
-cd Portfolio
-```
-2. Install Dependencies
-```bash
-npm install
-```
-3. Run the Development Server
-```bash
-npm run dev
-```
-The app will be available at http://localhost:5173.
+*   npm
+    ```sh
+    npm install npm@latest -g
+    ```
 
----
+### Installation
 
-## 🔗 Assets
-Assets used in the project can be found [here](https://github.com/user-attachments/files/19820923/public.zip)
+1.  Clone the repo
+    ```sh
+    git clone https://github.com/kutral/Portfolio.git
+    ```
+2.  Install NPM packages
+    ```sh
+    npm install
+    ```
+3.  Run the development server
+    ```sh
+    npm run dev
+    ```
 
 ---
 
 ## 📬 Contact Me
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ali.sanatidev/reels/) 
-[![Static Badge](https://img.shields.io/badge/Youtube-%23FF0033?style=flat&logo=youtube)](https://www.youtube.com/channel/UCZhtUWTtk3bGJiMPN9T4HWA)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-sanati/) 
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kutral)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kutraleeswaranb/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=internetexplorer&logoColor=white)](https://kutral.github.io/Portfolio/)
 
 ---
 

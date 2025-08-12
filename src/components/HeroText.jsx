@@ -1,5 +1,5 @@
 import { FlipWords } from "./FlipWords";
-import { motion } from "motion/react";
+import { motion } from "framer-motion";
 
 const HeroText = () => {
   const words = ["Secure", "Modern", "Scalable"];
@@ -18,7 +18,7 @@ const HeroText = () => {
           animate="visible"
           transition={{ delay: 1 }}
         >
-          Hi I'm Ali
+          Hi I'm KUTRALEESWARAN B
         </motion.h1>
         <div className="flex flex-col items-start">
           <motion.p
@@ -61,7 +61,7 @@ const HeroText = () => {
           animate="visible"
           transition={{ delay: 1 }}
         >
-          Hi,I'm Ali
+          Hi,I'm KUTRALEESWARAN B
         </motion.p>
         <div>
           <motion.p
