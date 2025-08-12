@@ -11,27 +11,27 @@ export const myProjects = [
     ],
     href: "https://kutral.github.io/Portfolio/",
     logo: "",
-    image: "/assets/projects/wordpress-theme.jpg",
+    image: `${import.meta.env.BASE_URL}/assets/projects/wordpress-theme.jpg`,
     tags: [
       {
         id: 1,
         name: "React",
-        path: "/assets/logos/react.svg",
+        path: `${import.meta.env.BASE_URL}/assets/logos/react.svg`,
       },
       {
         id: 2,
         name: "Three.js",
-        path: "/assets/logos/threejs.svg",
+        path: `${import.meta.env.BASE_URL}/assets/logos/threejs.svg`,
       },
       {
         id: 3,
         name: "TailwindCSS",
-        path: "/assets/logos/tailwindcss.svg",
+        path: `${import.meta.env.BASE_URL}/assets/logos/tailwindcss.svg`,
       },
       {
         id: 4,
         name: "Vite",
-        path: "/assets/logos/vitejs.svg",
+        path: `${import.meta.env.BASE_URL}/assets/logos/vitejs.svg`,
       },
     ],
   },
@@ -46,7 +46,7 @@ export const myProjects = [
     ],
     href: "",
     logo: "",
-    image: "/assets/projects/game-engine.jpg",
+    image: `${import.meta.env.BASE_URL}/assets/projects/game-engine.jpg`,
     tags: [
       {
         id: 1,
@@ -76,17 +76,17 @@ export const myProjects = [
     ],
     href: "",
     logo: "",
-    image: "/assets/projects/blazor-app.jpg",
+    image: `${import.meta.env.BASE_URL}/assets/projects/blazor-app.jpg`,
     tags: [
       {
         id: 1,
         name: "React",
-        path: "/assets/logos/react.svg",
+        path: `${import.meta.env.BASE_URL}/assets/logos/react.svg`,
       },
       {
         id: 2,
         name: "Node.js",
-        path: "",
+        path: `${import.meta.env.BASE_URL}/assets/logos/node.svg`,
       },
       {
         id: 3,
@@ -100,17 +100,17 @@ export const myProjects = [
 export const mySocials = [
   {
     name: "GitHub",
-    href: "https://github.com/kutral",
-    icon: "/assets/socials/github.svg",
+    href: "https://github.com/kutral ",
+    icon: `${import.meta.env.BASE_URL}/assets/socials/github.svg`,
   },
   {
     name: "LinkedIn",
     href: "https://linkedin.com/in/kutraleeswaranb/",
-    icon: "/assets/socials/linkedIn.svg",
+    icon: `${import.meta.env.BASE_URL}/assets/socials/linkedIn.svg`,
   },
   {
     name: "Portfolio",
-    href: "https://kutral.github.io/Portfolio/",
+    href: "https://kutral.github.io/Portfolio/ ",
     icon: "",
   },
 ];
