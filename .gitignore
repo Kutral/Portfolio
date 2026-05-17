@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.codex-logs/
+.deploy-gh-pages/
+.env
+.env.*
+!.env.example
+*.local
+Thumbs.db
+.DS_Store
+Kutraleeswaran_CV (2).pdf
+claudeFrontend.md
